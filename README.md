@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabh7g
 - 👀 I’m interested in React, CSS3, HTML5 and anything related Javascript.
 - 🌱 I’m currently working on React and UX/UI principles.
-- 💞️ I’m looking to collaborate on React, CSS, Html5
+- 💞️ I’m looking to collaborate on React, UX, CSS, Html5
 - 📫 ping me at rishabh7g@gmail.com to connect
 
 <!---
